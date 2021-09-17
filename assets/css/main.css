@@ -1912,6 +1912,10 @@ input, select, textarea {
 			font-family: 'Font Awesome 5 Brands';
 		}
 
+		.icon.solid:before {
+			font-family:  'Font Awesome 5 Solid';
+		}
+
 		.icon.circle {
 			-moz-transition: all 0.2s ease-in-out;
 			-webkit-transition: all 0.2s ease-in-out;
@@ -1952,13 +1956,13 @@ input, select, textarea {
 					background: #829bc9;
 				}
 
-			.icon.circle.fa-google-plus-g {
-				background: #db6b67;
+			.icon.circle.fa-paperclip {
+				background: #81B29A;
 				color: #fff;
 			}
 
-				.icon.circle.fa-google-plus-g:hover {
-					background: #df7b77;
+				.icon.circle.fa-paperclip:hover {
+					background: #81B29A;
 				}
 
 			.icon.circle.fa-github {
